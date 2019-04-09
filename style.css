@@ -1,7 +1,8 @@
 body {
-    background-image: src="C:\Users\Gaspard Berger\Desktop\Gluon\Challenge\Assets\horses.jpg";
+    background-image: url("Assets/horses.jpg");
     background-repeat: no-repeat;
   }
+
 h1 {
     text-align: center;
     font-size: 1cm;
